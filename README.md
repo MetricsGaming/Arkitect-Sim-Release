@@ -22,6 +22,8 @@ Windows may warn that the app is from an unknown publisher. To run it, click **M
 
 The sim stops by itself once you're in a server.
 
+If ARK isn't running, Arkitect Sim says so and closes. To open it anyway, for example to set up phone alerts first, turn on **Open without Ark** on the **Settings** page, or set `noark=1` in `sim.ini`.
+
 | Key | Action |
 | --- | --- |
 | **F9** | Start or stop the sim |
@@ -48,4 +50,10 @@ Arkitect Sim checks for a new version each time it starts. When there is one, it
 
 ## Your settings
 
-Arkitect Sim saves your settings in `sim.ini`, next to the exe. The file includes your ntfy topic, so don't share it.
+The first time Arkitect Sim runs, it creates `sim.ini` next to the exe, with every setting at its default and a note on what each one does. After that, it saves your changes as you use the app, so you don't need to edit the file.
+
+The file includes your ntfy topic, so don't share it.
+
+## Help
+
+For questions or problems, message **Arkitect.dev** on Discord. The **About** tab in Arkitect Sim has a button that copies the name.
