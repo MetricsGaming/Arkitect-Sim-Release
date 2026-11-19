@@ -1,3 +1,5 @@
+![Arkitect Sim](.github/ArkitectSim_banner.png)
+
 # Arkitect Sim
 
 Arkitect Sim keeps trying to join an ARK: Survival Ascended server for you, and can alert your phone the moment you're in.
