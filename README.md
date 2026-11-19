@@ -1,4 +1,4 @@
-![Arkitect Sim](.github/ArkitectSim_banner.png)
+![Arkitect Sim](.github/ArkitectSim_hero.png)
 
 # Arkitect Sim
 
